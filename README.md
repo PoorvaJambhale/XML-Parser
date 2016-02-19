@@ -1,2 +1,2 @@
 # XML-Parser
-Code is written in Java to perform XML paring.
+Code is written in Java to perform XML parsing.
